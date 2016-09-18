@@ -1,0 +1,15 @@
+* {
+	font-family: Segoe UI; 
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+    text-align: center;
+}
+
+td img#busy {
+	text-align: center;
+}
+
+#message {
+	font-size: smaller;
+}
